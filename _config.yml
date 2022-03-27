@@ -1,3 +1,4 @@
-remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-minimal
+markdown: kramdown
 title: UWC BCB Honours stats courses
 description: Prof. AJ Smit's pages for the University of the Western Cape Biodiversity and Conservation Biology Honours students.
